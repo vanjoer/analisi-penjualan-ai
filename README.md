@@ -1,0 +1,2 @@
+# analisi-penjualan-ai
+ai 
